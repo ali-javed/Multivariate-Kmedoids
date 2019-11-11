@@ -8,7 +8,7 @@ import numpy as np
 #year={2019},
 #month={November},
 #note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
-
+#}
 def sq_euc(s1, s2):
 #author: Ali Javed 
 #email: ajaved@uvm.edu
