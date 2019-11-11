@@ -11,7 +11,7 @@ from DTW_D import *
 #  year      = {2019},
 #  archivePrefix = {arXiv},
 #  bibsource = {dblp computer science bibliography, https://dblp.org}
-    
+#  }    
  
 
 def assign(timeseries, k, centeroids, window_size):
