@@ -1,3 +1,15 @@
+#if you use this code in your work, please cite it as
+#@article{Javed_CoRR2019,
+#  author    = {Ali Javed and Scott Hamshaw and Donna M. Rizzo and Byung Suk Lee},
+#  title     = {Hydrological and Suspended Sediment Event Analysis using Multivariate Time Series Clustering},
+#  journal   = {CoRR},
+#  year      = {2019},
+#  archivePrefix = {arXiv},
+#  bibsource = {dblp computer science bibliography, https://dblp.org}
+#  }    
+
+
+
 from MultivariateKmedoids import *
 import numpy as np
 
